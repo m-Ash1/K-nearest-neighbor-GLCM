@@ -1,2 +1,1 @@
-# K-nearest-neighbor-GLCM
-pattern recognition assignment 
+# pattern recognition assignment 
